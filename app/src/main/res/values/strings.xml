@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EZRecipie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_ezrecipe">Welcome to EZRecipe</string>
+    <string name="next">Next</string>
+    <string name="view_recipe_details">View Recipe Details</string>
+    <string name="ezrecipe">EZRecipe</string>
+</resources>
